@@ -1,5 +1,6 @@
 [
     {
+        "id": 22,
         "courseid": 22,
         "title": "Заголовок курса",
         "imageUrl": "http..",
@@ -9,6 +10,7 @@
         "specialization": ""
     },
     {
+        "id": 11,
         "courseid": 11,
         "title": "Заголовок курса1",
         "imageUrl": "http.1.",
