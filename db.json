@@ -1,0 +1,20 @@
+[
+    {
+        "courseid": 22,
+        "title": "Заголовок курса",
+        "imageUrl": "http..",
+        "url": "http..",
+        "body": "LOREM IPSUM",
+        "passedPercent": 45,
+        "specialization": ""
+    },
+    {
+        "courseid": 11,
+        "title": "Заголовок курса1",
+        "imageUrl": "http.1.",
+        "url": "http..1",
+        "body": "LOREM IPSUM1",
+        "passedPercent": 99,
+        "specialization": ""
+    }
+]
